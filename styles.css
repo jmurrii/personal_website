@@ -61,3 +61,14 @@ nav a::before {
 nav a:hover::before {
   width: 80%;
 }
+
+.contact-main {
+  text-align: center;
+  margin: 50px;
+}
+.contact-main h1 {
+  margin: 20px;
+}
+.contact-main p {
+  padding: 10px;
+}
