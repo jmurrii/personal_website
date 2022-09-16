@@ -1,7 +1,7 @@
 # John Murray - Personal Website
 A simple personal website using HTML and CSS
 
-View it [here](https://www.example.com)
+View it [here](https://jmurrii.github.io/personal_website/)
 
 ![My Image](assets/website_screenshot.png)
 
