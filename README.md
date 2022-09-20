@@ -13,4 +13,4 @@ I also learned how to add a little hover effect on the navbar.
 I learned how to do that with [this youtube tutorial](https://www.youtube.com/watch?v=FEmysQARWFU)
 
 ## Author
-John Murray - Software Developer (...in training :)
+John Murray - _Software Developer_
